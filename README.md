@@ -88,10 +88,4 @@ I bring hands-on experience with:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaynardWaits46&show_icons=true&theme=dark&hide=contribs)
-
----
-
 *Building in public. Learning every day. Documenting the journey.*
