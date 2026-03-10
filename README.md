@@ -65,7 +65,7 @@ I document my homelab journey and findings on [Medium (@raynardwaits)](https://m
 
 ## 🌐 Links
 
-- **Website:** [wh1zw1t.com](https://wh1zw1t.dev) (or your GitHub Pages URL)
+- **Website:** [wh1zw1t.dev](https://wh1zw1t.dev) (or your GitHub Pages URL)
 - **Blog:** [medium.com/@raynardwaits](https://medium.com/@raynardwaits)
 - **LinkedIn:** [linkedin.com/in/ianharding33](https://www.linkedin.com/in/ianharding33/)
 - **Twitter/X:** [@RaynardWaits46](https://x.com/RaynardWaits46)
