@@ -72,18 +72,6 @@ I document my homelab journey and findings on [Medium (@raynardwaits)](https://m
 
 ---
 
-## 💼 Currently Seeking
-
-**SOC Analyst roles** - Delaware or Remote
-
-I bring hands-on experience with:
-- Multi-SIEM environments (Wazuh + Splunk)
-- Threat hunting and log correlation
-- Detection engineering and gap analysis
-- Honeypot deployment and malware analysis
-- MITRE ATT&CK framework application
-- Technical documentation and communication
-
 📧 **Contact:** hardingian@proton.me
 
 ---
